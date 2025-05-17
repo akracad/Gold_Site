@@ -16,7 +16,7 @@ export const sliderItems = [
   {
     id: "3",
     img: "assets/chains/main.jfif",
-    title: "Chains for Chains",
+    title: "Chains for Charan",
     desc: "Chains sale at 50% offer",
     bg: "orange",
   },
