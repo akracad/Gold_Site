@@ -1,4 +1,4 @@
-##uncomment the multi stage build if you are practising before helm, comment the second docker file#########
+###uncomment the multi stage build if you are practising before helm, comment the second docker file#########
 FROM node:18 AS buildmachine
 
 WORKDIR /app
