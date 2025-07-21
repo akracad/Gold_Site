@@ -9,15 +9,15 @@ export const sliderItems = [
   {
     id: "2",
     img: "assets/rings/main.png",
-    title: "New Rings collection",
+    title: "New Rings collection For Arvind !!",
     desc: "Rings sale at 80% offer",
     bg: "aqua",
   },
   {
     id: "3",
     img: "assets/chains/main.jfif",
-    title: "Chains for Charan",
-    desc: "Chains sale at 50% offer",
+    title: "Chains for RAJA ANNAAAAA !!!!!!!!!!!!",
+    desc: "Chains sale at 100% offer",
     bg: "orange",
   },
 ];
